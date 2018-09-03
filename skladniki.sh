@@ -15,3 +15,5 @@ sudo apt-get install -y build-essential fp-compiler texlive-latex-base texlive-l
     sudo apt-get install -y texlive-latex-extra
     sudo apt-get install -y texlive-fonts-recommended
     sudo apt-get install -y gcc-multilib
+
+    pip install -U pytest
