@@ -1,5 +1,8 @@
 # INSTALLATION
 
+sudo apt-get install python-pip git
+sudo pip install virtualenv
+
 bash skladniki.sh - requirements
 python setup.py install - installation
 configuration in config folder
